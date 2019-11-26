@@ -1,0 +1,30 @@
+C:\Users\Indra Bagus\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Indra Bagus\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Indra Bagus\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Indra Bagus\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Indra Bagus\source\repos\Calculator\Calculator\obj\Debug\Calculator.Kalkulator.resources
+C:\Users\Indra Bagus\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form2.resources
+C:\Users\Indra Bagus\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Indra Bagus\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Indra Bagus\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Indra Bagus\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Calculator\Calculator\Calculator\obj\Debug\Calculator.Kalkulator.resources
+E:\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form2.resources
+E:\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Windows Form Calculator\Windows Form Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Windows Form Calculator\Windows Form Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Windows Form Calculator\Windows Form Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Windows Form Calculator\Windows Form Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Windows Form Calculator\Windows Form Calculator\Calculator\obj\Debug\Calculator.Kalkulator.resources
+E:\Windows Form Calculator\Windows Form Calculator\Calculator\obj\Debug\Calculator.Form2.resources
+E:\Windows Form Calculator\Windows Form Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Windows Form Calculator\Windows Form Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Windows Form Calculator\Windows Form Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Windows Form Calculator\Windows Form Calculator\Calculator\bin\Debug\Calculator.pdb
